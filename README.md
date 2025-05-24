@@ -1,1 +1,1 @@
-# django_news24_frontend
+# django-start3
